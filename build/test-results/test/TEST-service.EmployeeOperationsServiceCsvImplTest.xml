@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.EmployeeOperationsServiceCsvImplTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-12-10T10:24:12" hostname="DANA" time="0.079">
+  <properties/>
+  <testcase name="getEmployeeData_nullInputFileName()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.022"/>
+  <testcase name="getEmployeeData_nullInputAndOutputFileName()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.002"/>
+  <testcase name="getEmployeeData_invalidOutputFileName()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.003"/>
+  <testcase name="getEmployeeData_nullOutputFileName()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <testcase name="getEmployeeData_invalidInputFileSeparator()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <testcase name="getEmployeeData_invalidInputAndOutputFileName()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <testcase name="getEmployeeData_nullInputOutputSeparators()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <testcase name="getEmployeeData_nullInputDefaultOutputSeparators()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <testcase name="getEmployeeData_defaultInputOutputSeparators()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.04"/>
+  <testcase name="getEmployeeData_defaultInputNullOutputSeparators()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <testcase name="getEmployeeData_invalidInputFileName()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.0"/>
+  <testcase name="getEmployeeData_defaultInputCustomOutputSeparators()" classname="service.EmployeeOperationsServiceCsvImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
